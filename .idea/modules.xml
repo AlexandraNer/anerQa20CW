@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrelloTestsInClass.iml" filepath="$PROJECT_DIR$/.idea/modules/TrelloTestsInClass.iml" group="TrelloTestsInClass" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrelloTestsInClass_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TrelloTestsInClass_main.iml" group="TrelloTestsInClass" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrelloTestsInClass_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TrelloTestsInClass_test.iml" group="TrelloTestsInClass" />
+    </modules>
+  </component>
+</project>
