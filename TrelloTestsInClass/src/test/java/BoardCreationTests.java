@@ -6,7 +6,7 @@ public class BoardCreationTests  extends TestBase{
     @BeforeMethod
     public void ensurePreconditions() throws InterruptedException {
         if(!app.getSession().isUserLoggedIn()){
-            app.getSession().login("elena.telran@yahoo.com", "12345.com");
+            app.getSession().login("narishka@walla.com", "202010Zxc");
         };
     }
 
