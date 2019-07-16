@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="TrelloTestsInClass:main" external.linked.project.path="$MODULE_DIR$/../../TrelloTestsInClass" external.root.project.path="$MODULE_DIR$/../../TrelloTestsInClass" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../TrelloTestsInClass" rootProjectPath="$MODULE_DIR$/../../TrelloTestsInClass" />
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../../yad2QA20/testYad2" rootProjectPath="$MODULE_DIR$/../../../yad2QA20/testYad2" />
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../TrelloTestsInClass/out/production/classes" />
     <exclude-output />
