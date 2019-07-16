@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c945ff9-3b37-449f-b47f-4a3d3d047fa7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/TrelloTestsInClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TrelloTestsInClass.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/TrelloTestsInClass_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TrelloTestsInClass_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/TrelloTestsInClass_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TrelloTestsInClass_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c945ff9-3b37-449f-b47f-4a3d3d047fa7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/TrelloTestsInClass/.gradle/" />
     <ignored path="$PROJECT_DIR$/TrelloTestsInClass/build/" />
@@ -37,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="238">
+              <caret line="14" column="45" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -296,7 +291,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -430,8 +426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="238">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="45" />
         </state>
       </provider>
     </entry>
