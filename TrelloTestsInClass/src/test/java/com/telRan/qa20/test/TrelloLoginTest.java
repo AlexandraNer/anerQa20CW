@@ -1,3 +1,5 @@
+package com.telRan.qa20.test;
+
 import org.testng.annotations.Test;
 
 public class TrelloLoginTest  extends  TestBase{

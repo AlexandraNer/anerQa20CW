@@ -1,3 +1,6 @@
+package com.telRan.qa20.test;
+
+import com.telRan.qa20.manager.ApplicationManager;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
