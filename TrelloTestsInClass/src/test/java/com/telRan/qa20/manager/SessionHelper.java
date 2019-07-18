@@ -21,12 +21,17 @@ public class SessionHelper  extends HelperBase{
     }
 
     public void login(String email, String pwd) throws InterruptedException {
-        clickLoginButton();
+        initLogin();
         fillLoginForm(email, pwd); //"elena.telran@yahoo.com", "12345.com"
         pause(3000);
         confirmLogin();
         pause(10000);
     }
+
+    public void initLogin() {
+            click(By.xpath("//*[@href='/login']"));
+        }
+
 
     public boolean isUserLoggedIn() {
         return isElementPresent2(By.cssSelector("[href='/']"));

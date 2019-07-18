@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c945ff9-3b37-449f-b47f-4a3d3d047fa7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/BoardCreationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/BoardCreationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/HelperBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/HelperBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/LogInTrelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/LogInTrelloTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/TrelloKatalon.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloKatalon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/TrelloLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/ApplicationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/BoardCreationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/HelperBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/SessionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/TrelloLoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/LogInTrelloTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloLoginTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/TrelloTestsInClass/.gradle/" />
@@ -38,12 +40,12 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="45" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="45" />
+              <caret line="14" column="45" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -51,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -69,17 +71,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/HelperBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#790#791#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloLoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java">
+        <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/LogInTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/BoardCreationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -107,12 +143,16 @@
         <option value="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/TrelloLoginTest.java" />
         <option value="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/BoardCreationTests.java" />
+        <option value="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/LogInTrelloTest.java" />
+        <option value="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/LogInTrelloTest" />
         <option value="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloLoginTest.java" />
+        <option value="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java" />
+        <option value="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/LogInTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-10" />
     <option name="width" value="1815" />
     <option name="height" value="980" />
   </component>
@@ -122,53 +162,73 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="TrelloTestsInClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrelloTestsInClass" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TrelloTestsInClass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TrelloTestsInClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrelloTestsInClass" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TrelloTestsInClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TrelloTestsInClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrelloTestsInClass" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TrelloTestsInClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TrelloTestsInClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrelloTestsInClass" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TrelloTestsInClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TrelloTestsInClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TrelloTestsInClass" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="TrelloTestsInClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="qa20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrelloTestsInClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrelloTestsInClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa20" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrelloTestsInClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrelloTestsInClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa20" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../anerQa20" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -235,13 +295,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23355705" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24026845" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -279,10 +340,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloLoginTest.java">
+    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -290,32 +351,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/LogInTrelloTest.java">
+    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/HelperBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/LogInTrelloTest">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <element signature="e#0#417#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="45" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="45" />
+          <caret selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -326,17 +393,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/HelperBase.java">
+    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloLoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java">
+    <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/LogInTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
