@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c945ff9-3b37-449f-b47f-4a3d3d047fa7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/ApplicationManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/Board.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/BoardCreationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/HelperBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/SessionHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/out/test/classes/TrelloLoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/manager/SessionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/LogInTrelloTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/com/telRan/qa20/test/TrelloLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/LogInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrelloTestsInClass/src/test/java/LogInTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/TrelloTestsInClass/.gradle/" />
@@ -102,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/LogInTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="119">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -402,8 +392,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TrelloTestsInClass/src/test/java/LogInTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

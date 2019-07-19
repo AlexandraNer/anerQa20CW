@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 public class LogInTest extends TestBase {
     @BeforeMethod
     public void preconditions(){
+        if()
 
     }
     @Test
