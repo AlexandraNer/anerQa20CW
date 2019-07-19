@@ -1,5 +1,6 @@
 package com.telRan.qa20.manager;
 
+import com.telRan.qa20.model.User;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
@@ -15,14 +16,14 @@ public class SessionHelper  extends HelperBase{
         click(By.id("login"));
     }
 
-    public void fillLoginForm(String email, String password) {
-        type(By.id("user"), email);
-        type(By.name("password"), password);
+    public void fillLoginForm(User user) {
+        type(By.id("user"), user.getEmail());
+        type(By.name("password"), user.getPassword());
     }
 
     public void login(String email, String pwd) throws InterruptedException {
         initLogin();
-        fillLoginForm(email, pwd); //"elena.telran@yahoo.com", "12345.com"
+        fillLoginForm(new User().withEmail(email).withPassword(pwd)); //"elena.telran@yahoo.com", "12345.com"
         pause(3000);
         confirmLogin();
         pause(10000);
@@ -39,5 +40,15 @@ public class SessionHelper  extends HelperBase{
 
     public void clickLoginButton() {
         click(By.cssSelector("[href='/login']"));
+    }
+
+    public void logOut() throws InterruptedException {
+       click(By.xpath("//button[@data-test-id='header-member-menu-button']"));
+       click((By.xpath("//button[@data-test-id='header-member-menu-logout']")));
+       pause(3000);
+    }
+    public void getElementColor(){
+        String color = driver.findElement(By.xpath("//p[@class='error-message']")).getCssValue("color");
+        System.out.println(color);
     }
 }

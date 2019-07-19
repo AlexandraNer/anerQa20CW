@@ -9,7 +9,9 @@ import java.util.concurrent.TimeUnit;
 public class ApplicationManager {
     Board board;
     SessionHelper session;
+    HelperBase hedBut;
     WebDriver driver;
+
 
     public void init() throws InterruptedException {
         driver = new ChromeDriver();
@@ -17,7 +19,7 @@ public class ApplicationManager {
         driver.get("https://trello.com");
         session = new SessionHelper(driver);
         session.login("narishka@walla.com", "202010Zxc");
-
+        hedBut = new HelperBase(driver);
         board = new Board(driver);
     }
 
@@ -47,6 +49,10 @@ public class ApplicationManager {
 
     public SessionHelper getSession() {
         return session;
+    }
+
+    public HelperBase getHedBut() {
+        return hedBut;
     }
 }
 
