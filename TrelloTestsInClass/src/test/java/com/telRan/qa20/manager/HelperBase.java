@@ -40,4 +40,8 @@ public class HelperBase {
     public boolean isElementPresent2(By locator){
         return  driver.findElements(locator).size()>0;
     }
+
+    public void returnBack() {
+        driver.navigate().back();
+    }
 }

@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeMethod;
 
 public class TestBase {
 
-    ApplicationManager app = new ApplicationManager();
+    static ApplicationManager app = new ApplicationManager();
 
     @BeforeMethod
     public void setUp() throws InterruptedException {
